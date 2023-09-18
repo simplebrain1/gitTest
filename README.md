@@ -1,2 +1,2 @@
 # gitTest1------test2
-you no up and down
+your no up and down,but not gone
